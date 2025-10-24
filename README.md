@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23122341/README.md)# 🧠 Capstone Project: Analisis Stres dan Depresi pada Mahasiswa & Pekerja Muda
+[Mental_Health.ipynb](https://github.com/user-attachments/files/23122637/Mental_Health.ipynb)[README.md](https://github.com/user-attachments/files/23122598/README.md)[README.md](https://github.com/user-attachments/files/23122341/README.md)# 🧠 Capstone Project: Analisis Stres dan Depresi pada Mahasiswa & Pekerja Muda
 
 **Author:** Yuditchern Makawimbang  
 **Tanggal:** Oktober 2025  
@@ -59,9 +59,10 @@ Analisis dilakukan menggunakan pendekatan **Natural Language Processing (NLP)** 
 2. (Opsional) Isi `REPLICATE_API_TOKEN` jika ingin menjalankan analisis dengan LLM.  
 3. Jalankan seluruh cell dari atas ke bawah.  
 4. Output otomatis:  
-   - `Capstone_MentalHealth_Slides.pptx' [Capstone_MentalHealth_Slides.pptx](https://github.com/user-attachments/files/23122332/Capstone_MentalHealth_Slides.pptx)
-
+   - `Capstone_MentalHealth_Slides.pptx' [Capstone_MentalHealth_Slides.pptx](https://github.com/user-attachments/files/23122332/Capstone_MentalHealth_Slides.pptx'
    - `README.md`
+   - `Mental_health.ipynb`[Uploading Mental_Health.ipynb…]
+
      
 
 ---
